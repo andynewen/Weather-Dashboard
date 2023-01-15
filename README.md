@@ -10,7 +10,7 @@
 ## Overview
 
 
-* This is the link to the live demo of the website
+* This is the link to the live demo of the website - https://andynewen.github.io/Weather-Dashboard/
 * Creating a Weather Dashboard with Server Side APIS
 * Quite a challenging task this week but in the end got it working just like the demo.
 
