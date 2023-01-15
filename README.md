@@ -22,6 +22,8 @@
 * Javascript
 * HTML
 * CSS
+* Bootstrap
+* Jquery
 
 ## Features
 
