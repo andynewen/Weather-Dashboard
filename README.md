@@ -15,7 +15,7 @@
 * Quite a challenging task this week but in the end got it working just like the demo.
 
 ## Screenshots of Dashboard
-<img width="1080" src="./assets/demo.png">
+<img width="1080" src="./assets/images/demo.png">
 
 ### Built With
 
